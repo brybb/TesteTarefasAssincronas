@@ -1,0 +1,14 @@
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\bin\Debug\net6.0\Teste_Console_Tarefas.exe
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\bin\Debug\net6.0\Teste_Console_Tarefas.deps.json
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\bin\Debug\net6.0\Teste_Console_Tarefas.runtimeconfig.json
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\bin\Debug\net6.0\Teste_Console_Tarefas.dll
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\bin\Debug\net6.0\Teste_Console_Tarefas.pdb
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\Teste_Console_Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\Teste_Console_Tarefas.AssemblyInfoInputs.cache
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\Teste_Console_Tarefas.AssemblyInfo.cs
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\Teste_Console_Tarefas.csproj.CoreCompileInputs.cache
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\Teste_Console_Tarefas.dll
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\refint\Teste_Console_Tarefas.dll
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\Teste_Console_Tarefas.pdb
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\Teste_Console_Tarefas.genruntimeconfig.cache
+C:\TesteTots\Teste_Console_Tarefas\Teste_Console_Tarefas\obj\Debug\net6.0\ref\Teste_Console_Tarefas.dll

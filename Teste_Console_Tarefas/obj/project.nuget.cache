@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "btfPB14APt4/A8NY9t2tQgrM4KvVC4NLVEeg/HuKBJ9U0eywFwsOvWpAxkvnZUA9Wl+cHElhVWdtzj2k4hDjvw==",
+  "success": true,
+  "projectFilePath": "C:\\TesteTots\\Teste_Console_Tarefas\\Teste_Console_Tarefas\\Teste_Console_Tarefas.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://verona:8080/tfs/FEICollection/_packaging/FEI/nuget/v3/index.json'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
